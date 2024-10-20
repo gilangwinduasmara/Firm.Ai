@@ -32,47 +32,47 @@ const availableProducts = [
   {
     id: 1,
     name: "DORI GLZ 0%",
-    price: 1000
+    price: 80000
   },
   {
     id: 2,
     name: "DORI GLZ 20%",
-    price: 2000
+    price: 82000
   },
   {
     id: 3,
     name: "DORI GLZ 50-55%",
-    price: 3000
+    price: 88000
   },
   {
     id: 4,
     name: "CUMI TUBE GLZ 40%",
-    price: 4000
+    price: 90000
   },
   {
     id: 5,
     name: "SALMON FILLET",
-    price: 5000
+    price: 92000
   },
   {
     id: 6,
     name: "UDANG HOSO",
-    price: 6000
+    price: 95000
   },
   {
     id: 7,
     name: "UDANG PUD 500gr",
-    price: 7000
+    price: 100000
   },
   {
     id: 8,
     name: "TILAPIA (1kg)",
-    price: 8000
+    price: 102000
   },
   {
     id: 9,
     name: "FIB/CUCUT (1kg)",
-    price: 9000
+    price: 103000
   },
 ] as Product[];
 
